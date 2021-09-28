@@ -1,0 +1,34 @@
+@media (max-width: 992px){
+    .program1{
+        margin-top: 85px;
+    }
+    .economy{
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 991px){
+    .banner-contenct{
+        margin-top: 80px;
+    }
+  
+}
+
+@media (max-width: 500px){
+    .bn-image img{
+        width: 350px;
+        height: auto;
+    }
+    .f-t-text{
+        font-size: 14px;
+    }
+    .economy-heading h1{
+        font-size: 30px;
+    }
+    .economy-heading p{
+        font-size: 17px;
+    }
+    .contact-heading h1{
+        font-size: 23px;
+    }
+}
